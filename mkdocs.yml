@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Doce GSR
+site_autor: Rodrigo Cirilo
+site_url: https://github.com/rodrigoifrn/doce-gsr
+
+theme:
+  name: material
+  language: pt-BR
