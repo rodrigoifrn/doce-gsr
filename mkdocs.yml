@@ -1,0 +1,10 @@
+site_name: Doce GSR
+site_author: Jurandy Soares
+site_url: https://rodrigoifrn.github.io/doce-gsr/
+
+repo_url: https://rodrigoifrn.github.io/doce-gsr
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: pt
