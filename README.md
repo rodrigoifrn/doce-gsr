@@ -1,4 +1,4 @@
-# doce-gsr
+#IFRN - Parnamirim
 
 Documentação para disciplina Gerência e Segurança de Redes
 IFRN - Rodrigo Cirilo
